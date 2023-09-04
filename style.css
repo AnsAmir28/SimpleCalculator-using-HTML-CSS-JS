@@ -1,0 +1,53 @@
+
+body {
+    background-color: #9ADBEB;
+  }
+
+.container {
+    text-align: center;
+    margin-top: 23px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 34px;
+    border: 5px solid black;
+    border-radius: 21px;
+    height: 65px;
+    width: 456px;
+}
+
+button {
+    font-size: 40px;
+    background: #76CEE4;
+    border-radius: 20px;
+    width: 102px;
+    height: 80px;
+    margin: 6px;
+}
+
+.calculator {
+    background-color: #54C2DE;
+    border: 4px solid black;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+.border{
+    background-color: black;
+    color:white;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.card-header{
+    background-color: black;
+    color: white;
+}
+.card-body{
+    background-color: #78CFE5;
+}
